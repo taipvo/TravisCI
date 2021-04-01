@@ -60,7 +60,7 @@ namespace TravisCILab
         {
             Assert.AreEqual(6, Program.Multiply("3", "2"));
             Assert.AreEqual(14, Program.Multiply("7", "2"));
-            Assert.AreEqual(62, Program.Multiply("9", "7"));
+            Assert.AreEqual(63, Program.Multiply("9", "7"));
         }
 
         [Test]
